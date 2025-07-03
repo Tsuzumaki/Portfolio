@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About</title>
+</head>
+<style>
+.nicolaspogi{
+	color:white;
+	margin:10% 30%;
+	margin-top:0%;
+	padding:2%;
+	font-size:175%;
+	width:45%;
+	padding:1%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:rgb(0,0,0,0.5);
+	}
+</style>
+<body>
+<h2>About</h2>
+<p class="nicolaspogi">
+This is great for starters to start a game using "FloatinginWater"
+Also it uses C++ & Java to create the game for your website.
+This Game Engine can help you to create a game with ease by downloading the
+file created by me.(This is only for educational purposes)
+</p>
+</body>
+</html>
