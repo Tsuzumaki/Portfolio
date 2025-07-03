@@ -7,7 +7,7 @@ h2{
 	font-family:Exon;
 	color:rgb(70,113,155);
 	animation:nicswow 2s;
-	animation-delay:2s;
+	animation-delay:1s;
 	animation-fill-mode:both;
 	text-shadow:2px 3px 5px#000;
 	}
@@ -50,7 +50,7 @@ ul {
 	top:0;
 	width:100%;
 	animation:nicswow 1s;
-	animation-delay:4s;
+	animation-delay:3s;
 	animation-fill-mode:both;
 }
 li{
@@ -93,7 +93,7 @@ div.gallery {
 	float:left;
 	width:400px;
 	animation:nicswow 2s;
-	animation-delay:3s;
+	animation-delay:2s;
 	animation-fill-mode:both;
 
 	}
@@ -109,7 +109,7 @@ div.descrip{
 	color:white;
 	font-size:150%;
 	animation:nicswow 2s;
-	animation-delay:3s;
+	animation-delay:2s;
 	animation-fill-mode:both;
 	}
 
